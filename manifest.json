@@ -1,7 +1,8 @@
 {
   "name": "Songo — Jeu Traditionnel Ekang",
   "short_name": "Songo",
-  "description": "Jeu de semailles traditionnel Ekang du Cameroun.",
+  "description": "Jeu de semailles traditionnel Ekang du Cameroun - créé par SOH TANKOU joël valdo.",
+  "author": "SOH TANKOU joël valdo"
   "start_url": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
